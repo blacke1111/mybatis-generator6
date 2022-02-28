@@ -1,0 +1,8 @@
+com\study\docker\config\RedisConfig.class
+com\study\docker\controller\UserController.class
+com\study\docker\service\UserService.class
+com\study\docker\entities\UserDTO.class
+com\study\docker\mapper\UserMapper.class
+com\study\docker\entities\User.class
+com\study\docker\DockerBoot.class
+com\study\docker\config\SwaggerConfig.class
